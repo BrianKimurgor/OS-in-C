@@ -120,18 +120,19 @@ To get started, clone the repository into the specified folder:
 
    - Use the `git clone` command to clone the repository into this folder. Replace `<repository-url>` with the actual repository URL.
      ```bash
-     git clone <repository-url> WSOS
+     git clone https://github.com/BrianKimurgor/OS-in-C.git
      ```
 
 6. **Verify Project Structure**
 
    - After cloning, your folder structure should look like this:
      ```
-     C:\CEG4350\WSOS
+     C:\CEG4350\OS-IN-C
      ```
 
 ---
 
-Complete this setup successfully to be able to modify and test your OS.
+Complete this setup successfully to be able to modify and test your OS. Feel free
+to raise an issue if the process is not understandable.
 
 ---
