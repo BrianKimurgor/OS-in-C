@@ -1,6 +1,3 @@
-Here’s the revised README file, now with a Table of Contents:
-
----
 
 # Project Setup Guide for Creating a Simple Operating System
 
